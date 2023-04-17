@@ -1,0 +1,19 @@
+#card-info{
+  opacity: 0;
+}
+#card-info:hover{  
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  transition: 1s ease-in;
+  z-index: 1;
+  opacity: 1;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  text-decoration: none;
+  color: white;
+}
